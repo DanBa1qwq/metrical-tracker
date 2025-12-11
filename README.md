@@ -28,6 +28,8 @@ texture coefficients, and pinhole camera intrinsic and extrinsic parameters. For
 created
 that stores all the information. Additionally, depth maps and meshes are also saved.
 
+**📖 For detailed explanation of the tracking principle, predicted coefficients, outputs, and performance characteristics, see [TRACKING_PRINCIPLE.md](documents/TRACKING_PRINCIPLE.md)** (available in Chinese/中文).
+
 ### Installation
 
 After cloning the repository please install the environment by running the `install.sh` script. It will prepare the
